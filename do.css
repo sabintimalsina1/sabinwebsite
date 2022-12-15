@@ -1,0 +1,50 @@
+.page{
+border-style:groove
+}
+
+
+
+
+
+p{
+font-size:34px;
+}
+
+.bodypart h3
+{
+font-size:34px;
+color:red;
+}
+
+.bodypart u
+{
+color:red;
+font-size:10px;
+
+}
+
+.bodypart h2
+{
+color:crimson;
+text-align:center;
+font-size:40px;
+}
+.bodypart img
+{
+height:150px;
+width:250px;
+}
+
+li
+{
+color:blue;
+font-size:18;
+}
+
+
+.footerpart a:hover
+{
+background-color:rgb(245,246,251);
+color:rgb(12,100,198);
+border: 1px solid #fff;
+}

@@ -1,0 +1,99 @@
+.page{
+width:1300px;
+height:auto;
+border-style:groove
+}
+
+.headerpart
+{
+width:1300px;
+height: 50px;
+border-style:groove;
+background-color:red;
+background-image:url('re.jpg');
+background-repeat:no-repeat; 
+}
+
+.bodypart
+{
+width:1300px;
+height:2500px; 
+border-style:groove;
+margin-top:5px;
+}
+
+.bodypart .newspart
+{
+width:250px;
+height:620px;
+border-style:groove;
+float:right;
+}
+
+.bodypart .newspart h3
+{
+color:green;
+margin-left:10px;
+}
+
+.bodypart .newspart .news
+{
+width:250px;
+height:500px;
+
+}
+
+.bodypart .newspart .news h4
+{
+color:blue;
+}
+p{
+font-size:34px;
+}
+
+.bodypart h3
+{
+font-size:34px;
+color:red;
+}
+
+.bodypart u
+{
+color:red;
+font-size:10px;
+
+}
+
+.bodypart h2
+{
+color:crimson;
+text-align:center;
+font-size:40px;
+}
+.bodypart img
+{
+height:150px;
+width:250px;
+}
+.footerpart
+{
+width:1300px;
+height:25px;
+margin-top:5px;
+border-style:groove;
+background-color:blue;
+}
+
+.footerpart a
+{
+color:rgb(245,246,251);
+text-decoration:none;
+border: 1px solid #fff;
+}
+
+.footerpart a:hover
+{
+background-color:rgb(245,246,251);
+color:rgb(12,100,198);
+border: 1px solid #fff;
+}
